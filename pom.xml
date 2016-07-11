@@ -9,7 +9,7 @@
         <dependency>
             <groupId>io.github.lukehutch</groupId>
             <artifactId>fast-classpath-scanner</artifactId>
-            <version>1.90.7</version>
+            <version>1.90.8-SNAPSHOT</version>
             <!-- version>1.10.4</version -->
         </dependency>
         <dependency>
